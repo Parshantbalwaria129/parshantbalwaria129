@@ -52,8 +52,6 @@ const parshant = {
 
 <br clear="right"/>
 
----
-
 ### 🚀 Professional Journey
 
 ```mermaid
@@ -98,8 +96,6 @@ timeline
 </tr>
 </table>
 
----
-
 ### 🛠️ Tech Arsenal
 
 <div align="center">
@@ -126,8 +122,6 @@ timeline
 
 </div>
 
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
@@ -143,8 +137,6 @@ timeline
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parshantbalwaria129&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 </div>
-
----
 
 ### 🎯 Featured Projects & Achievements
 
@@ -335,69 +327,137 @@ while True:
 <a href="https://github.com/Parshantbalwaria129">
   <img src="https://img.shields.io/badge/GitHub-Follow_for_More-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</div>
 
-### 💡 Open For
+<br/><br/>
 
-🚀 **Freelance GIS Projects** • 📊 **Spatial Analysis** • 💻 **Custom Development**  
-🤝 **Open Source Collab** • 🎓 **Tech Mentorship** • ☕ **Coffee & Code Chats**
+### 🎯 My Current Status
 
-*Got a cool GIS idea? Let's turn it into reality!*
-
-### 🎯 Quick Facts
-
-```python
-parshant_stats = {
-    "education": "🎓 B.Tech - Kurukshetra University (2023)",
-    "recommendations": "🏆 2 LinkedIn Recommendations",
-    "deployments": "🌟 10+ Production Systems (Zero Failed!)",
-    "experience": "📍 2+ Years GIS Engineering",
-    "superpower": "⚡ Debugging PostGIS at 3 AM",
-    "weakness": "🍕 Pizza near deadline",
-    "status": "✅ Available for epic projects"
-}
+```diff
++ Building cloud-native GIS platforms
++ Available for freelance projects
++ Open to collaborations
+- Not accepting "Can you do it for exposure?" offers
+- Definitely not fixing your printer
 ```
 
-### 💭 Developer Wisdom
+<br/>
 
-> *"There are 2 hard problems in GIS: Coordinate systems, cache invalidation, and off-by-one errors."*  
-> — Every GIS Developer Ever 🤓
+### 🎮 Achievement Unlocked!
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="80"/><br/>
+<b>🏆 Zero Downtime</b><br/>
+<sub>Legendary Status</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="80"/><br/>
+<b>☕ Coffee Master</b><br/>
+<sub>Level 99</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="80"/><br/>
+<b>🗺️ National Impact</b><br/>
+<sub>Millions Served</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="80"/><br/>
+<b>🐛 Bug Hunter</b><br/>
+<sub>Elite Rank</sub>
+</td>
+</tr>
+</table>
+</div>
+<br/>
 
-> *"It works on my machine ¯\\_(ツ)_/¯"*  
-> **Before Docker:** 😰 | **After Docker:** 😎
+### 💭 Dev Life in a Nutshell
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-> *"Debugging is like being a detective where you're also the murderer."*  
-> — Me at 2 AM fixing production 🕵️‍♂️
+**Before Docker**
+```
+┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
+"It works on my machine!"
+```
 
-### 🎮 When I'm Not Coding
+</td>
+<td width="50%" align="center">
 
-🗺️ Exploring new GIS tools • 📚 Reading tech blogs • ☕ Perfecting coffee brewing  
-🎵 Jamming to lo-fi beats • 🏃‍♂️ Running (from bugs) • 🌱 Contributing to open source
+**After Docker**
+```
+ヽ(´▽`)/
+"It works everywhere!"
+```
 
-### 🏆 Fun Achievements
+</td>
+</tr>
+</table>
+</div>
+<br/>
 
-- ✅ **Zero Production Outages** - Knock on wood! 🪵
-- 🚀 **10+ Tools Shipped** - All on time, all working (mostly 😅)
-- 🗺️ **National Scale Impact** - Millions of users served
-- ☕ **Coffee Master** - Level 99 caffeine tolerance
-- 🐛 **Bug Bounty Hunter** - Unofficial title, official results
+### 📊 How I Spend My Time
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie title Weekly Distribution
+    "Coding" : 40
+    "Debugging" : 25
+    "Coffee Breaks" : 15
+    "Meetings" : 10
+    "Learning New Stuff" : 10
+```
+
+<br/>
+
+### 🎪 Quick Stats
+<div align="center">
+
+| 💼 Professional | 🎯 Personal | ☕ Essential |
+|:---:|:---:|:---:|
+| **2+ Years** Experience | **B.Tech** Graduate | **∞ Cups** Coffee |
+| **10+** Deployments | **2** Recommendations | **Level 99** Caffeine |
+| **0** Failed Deploys | **100%** Success Rate | **24/7** Ready to Code |
 
 </div>
 
+<br/>
+
+### 🌟 Random Fun Fact
 <div align="center">
 
+```javascript
+const funFact = () => {
+    const facts = [
+        "🗺️ I can debug PostGIS queries faster than you can say ST_Transform",
+        "☕ My code-to-coffee ratio is 1:3",
+        "🚀 I've shipped more code than pizzas I've ordered (barely)",
+        "🐛 I'm a detective who solves crimes I committed",
+        "🌍 I put the 'geo' in 'geometric increase in coffee consumption'"
+    ];
+    return facts[Math.floor(Math.random() * facts.length)];
+};
+```
+
+</div>
+
 <br/>
 
-### 🌟 *"I turn lat-longs into legendary products"* 🗺️✨
+<div align="center">
+
+### *"Converting caffeine to code, one commit at a time"* ☕💻
+
+**Made with 💙 (and lots of ☕)  by [Parshant Balwaria](https://github.com/Parshantbalwaria129)**
+
+📍 Shipping code from Gurgaon, Cyber City - Building 5 <br/>
+⚡ Powered by caffeine, curiosity, and spatial queries <br/>
+🎯 Converting "It works on my machine" to "It works everywhere" since 2022
+
 
 <br/>
 
-**Made with 💙 (and lots of ☕) by [Parshant Balwaria](https://github.com/Parshantbalwaria129)**
 
-📍 Shipping code from **Gurgaon, Cyber City - Building 5**  
-⚡ Powered by caffeine, curiosity, and spatial queries  
-🎯 Converting "It works on my machine" → "It works everywhere" since 2022
-
-<br/>
-<sub>⭐ If you've scrolled this far, you deserve a cookie 🍪 Now go star some repos!</sub>
-
+⭐ If you've scrolled this far, you're awesome! Now go star some repos! 😉
 </div>
