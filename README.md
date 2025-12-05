@@ -234,8 +234,7 @@ Edge messaging for remote GIS ops in low-connectivity zones
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [77.0880, 28.4955]
-      }
+        "coordinates": [77.0920859, 28.4897]      }
     }
   ]
 }
