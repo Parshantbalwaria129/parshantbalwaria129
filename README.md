@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2%2B+Years+of+GIS+Excellence;Building+Cloud-Ready+Spatial+Solutions;10%2B+Production+Deployments;Automating+Geospatial+Workflows;Making+Maps+That+Matter" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://parshantbalwaria129.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://parshant-balwaria.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshant-balwaria-b930a21b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantbalwaria@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Parshantbalwaria129&color=00D9FF&style=for-the-badge)
