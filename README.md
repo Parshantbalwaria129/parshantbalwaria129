@@ -1,177 +1,229 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Parshant%20Balwaria&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GIS%20Software%20Engineer%20%7C%20Building%20Geospatial%20Solutions&descAlignY=55&descAlign=50" width="100%" />
-</div>
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-parshant.dev-4776E6?style=for-the-badge)](https://parshantbalwaria129.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parshant-balwaria-b930a21b9/)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantbalwaria@gmail.com)
-  
-</div>
+# 🗺️ Parshant Balwaria
 
-<br/>
+### GIS Software Engineer | Spatial Data Architect | Open Source Contributor
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4776E6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hi+there!+👋+I'm+a+GIS+Software+Engineer;Turning+spatial+data+into+scalable+solutions" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=2%2B+Years+of+GIS+Excellence;Building+Cloud-Ready+Spatial+Solutions;10%2B+Production+Deployments;Automating+Geospatial+Workflows;Making+Maps+That+Matter" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://parshantbalwaria129.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshant-balwaria-b930a21b9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantbalwaria@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Parshantbalwaria129&color=00D9FF&style=for-the-badge)
+
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
-class GISEngineer:
-    def __init__(self):
-        self.name = "Parshant Balwaria"
-        self.role = "GIS Software Engineer"
-        self.current_company = "Ramboll"
-        self.location = "Gurgaon, Cyber City - Building 5"
-        self.experience_years = 2
-        self.deployments = "10+ Production Systems"
-        self.coffee_consumed = "∞"
-        
-    def get_expertise(self):
-        return {
-            "geospatial": ["QGIS", "ArcGIS", "PostGIS", "PyQGIS", "ArcPy"],
-            "backend": ["Python", "FastAPI", "Django", "Flask"],
-            "frontend": ["React.js", "Vue.js", "JavaScript", "Leaflet", "Mapbox"],
-            "databases": ["PostgreSQL", "PostGIS", "MySQL"],
-            "cloud_devops": ["Docker", "CI/CD", "Git"],
-            "specialties": ["Spatial Analysis", "GIS Automation", "Web Mapping"],
-            "superpower": ["Converting caffeine to code 24/7 ☕️"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🔥 Building cloud-ready GIS platforms that scale",
-            "🚀 Automating geospatial workflows like a boss",
-            "💡 Creating open-source GIS magic",
-            "🎯 Full-stack web mapping that makes people go 'WOW!'"
-        ]
-    
-    def fun_fact(self):
-        return "I can debug PostGIS queries faster than you can say 'ST_Transform' 😎"
+### 👨‍💻 About Me
 
-me = GISEngineer()
-print(f"Currently coding from: {me.location} 🏢")
+```typescript
+const parshant = {
+    location: "Gurgaon, Cyber City - Building 5 🏢",
+    role: "GIS Software Engineer @ Ramboll",
+    experience: "2+ years",
+    expertise: ["Geospatial Analysis", "Full-Stack Development", "Cloud Architecture"],
+    
+    currentFocus: {
+        building: "Cloud-native GIS platforms",
+        automating: "Spatial data workflows",
+        contributing: "Open-source GIS projects",
+        learning: "Advanced spatial algorithms"
+    },
+    
+    techStack: {
+        gis: ["QGIS", "ArcGIS", "PostGIS", "PyQGIS", "ArcPy"],
+        backend: ["Python", "FastAPI", "Django", "Flask"],
+        frontend: ["React", "Vue.js", "JavaScript", "Leaflet", "Mapbox"],
+        database: ["PostgreSQL/PostGIS", "MySQL"],
+        tools: ["Docker", "Git", "CI/CD"]
+    },
+    
+    stats: {
+        deploymentsShipped: "10+",
+        teamsSupported: 2,
+        coffeeConsumed: "∞",
+        codingStyle: "Clean, Scalable, Production-Ready"
+    }
+};
 ```
 
-<br/>
+<br clear="right"/>
 
-## 💼 Professional Journey
+---
+
+### 🚀 Professional Journey
 
 ```mermaid
-graph LR
-    A[🎓 B.Tech 2023] --> B[🌟 MapMyIndia Intern]
-    B --> C[💼 Software Associate II]
-    C --> D[🚀 Software Engineer III]
-    D --> E[🗺️ Ramboll - Current]
-    
-    style A fill:#4776E6,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#5B86E5,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#6C96E8,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#7DA6EB,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#8E54E9,stroke:#333,stroke-width:2px,color:#fff
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF'}}}%%
+timeline
+    title Career Timeline
+    2022 : Software Engineer Trainee @ MapMyIndia
+    2023 : Graduated B.Tech - Kurukshetra University
+         : Software Associate II @ MapMyIndia
+    2024 : Promoted to Software Engineer III
+         : Led national-scale mapping services
+    2025 : Assistant Digital Product Engineer @ Ramboll
+         : Building cloud-ready GIS platforms
 ```
 
-🗺️ **Assistant Digital Product Engineer @ Ramboll** *(Oct 2025 - Present)*
-- 🌩️ Prototyping cloud-ready GIS experiences that make enterprise teams smile
-- ⚡ Automating data flows between ArcGIS, PostGIS, and Python (because manual is so 2020)
-- 🏗️ Building infrastructure spatial insights that actually make sense
-- 📍 Based in: **Gurgaon, Cyber City - Building 5** 🏢
+<table>
+<tr>
+<td width="50%">
 
-🛰️ **Software Engineer III @ MapMyIndia** *(Nov 2024 - Sep 2025)*
-- 🎖️ Led national-scale mapping services (yes, the ENTIRE nation!)
-- 🔄 Directed platform migrations without breaking production (chef's kiss 👨‍🍳💋)
-- 👥 Mentored cross-functional teams in the art of GIS wizardry
+#### 🏢 Ramboll (Current)
+**Assistant Digital Product Engineer**  
+*Oct 2025 - Present*
 
-📍 **Software Associate II @ MapMyIndia** *(Nov 2023 - Jan 2025)*
-- 🚀 Launched 10+ targeted GIS automation tools (productivity goes brrr 📈)
-- 🔧 Built reusable Python, PostGIS, and React components
-- ✨ Improved data freshness and quality checks (garbage in, garbage OUT!)
+- 🌩️ Prototyping cloud-ready GIS experiences
+- ⚡ Automating ArcGIS ↔ PostGIS workflows
+- 🏗️ Building infrastructure spatial insights
+- 📍 **Location**: Gurgaon, Cyber City - Building 5
 
-<br/>
+</td>
+<td width="50%">
 
-## 🛠️ Tech Stack
+#### 🛰️ MapMyIndia
+**Software Engineer III**  
+*Nov 2024 - Sep 2025*
+
+- 🎖️ Led national-scale mapping services
+- 🚀 Shipped 10+ GIS automation tools
+- 👥 Mentored cross-functional teams
+- 🔄 Zero-downtime platform migrations
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🗺️ GIS & Spatial Technologies
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+#### 🗺️ GIS & Spatial Technologies
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat-square)
+![ArcPy](https://img.shields.io/badge/ArcPy-2C7AC3?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
-### 💻 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### 💻 Development Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parshantbalwaria129&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4776E6&icon_color=8E54E9&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshantbalwaria129&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4776E6&text_color=C9D1D9"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parshantbalwaria129&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshantbalwaria129&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshantbalwaria129&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parshantbalwaria129&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parshantbalwaria129&theme=tokyonight&hide_border=true&background=0D1117&stroke=4776E6&ring=8E54E9&fire=8E54E9&currStreakLabel=8E54E9" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Parshantbalwaria129&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 </div>
+
+---
+
+### 🎯 Featured Projects & Achievements
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parshantbalwaria129&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4776E6&line=8E54E9&point=C9D1D9" width="95%" alt="Parshant Balwaria's Contribution Graph"/>
-  </a>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/database.png" width="80px"/>
+
+**Enterprise Spatial Platform**
+
+Confidential data backbone powering national-scale location intelligence
+
+`PostGIS` `FastAPI` `React` `CI/CD`
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/plugin.png" width="80px"/>
+
+**QGIS Plugin Toolkit**
+
+Automation suite accelerating map production for field teams
+
+`QGIS` `PyQGIS` `Python`
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/api.png" width="80px"/>
+
+**Caller API Service**
+
+Token-secured phone validation with JWT security & audit trails
+
+`Django REST` `JWT` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="80px"/>
+
+**Video Subtitle Platform**
+
+Full-stack multilingual subtitle management with live editing
+
+`Django` `Vue.js 3` `MySQL`
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/server.png" width="80px"/>
+
+**MapStore + QGIS Server**
+
+Self-service mapping deployment blueprint for enterprises
+
+`MapStore` `QGIS Server` `Docker`
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="80px"/>
+
+**Offline MQTT Messaging**
+
+Edge messaging for remote GIS ops in low-connectivity zones
+
+`MQTT` `Python` `Edge Computing`
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<br/>
+---
 
-## 🏆 GitHub Trophies
+### 📍 Where I'm Cooking From
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parshantbalwaria129&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 🎯 Featured Projects
-
-### 🔥 Hot Off The Press
-
-- 🗺️ **Enterprise Spatial Data Platform** - The secret sauce powering national-scale location intelligence (confidential, but trust me, it's EPIC!)
-- 📊 **QGIS Plugin Toolkit** - Because who has time for repetitive tasks? Automate ALL the things!
-- 🔧 **MapStore + QGIS Server** - Self-service mapping that scales like crazy
-- 🎥 **Video Subtitle Platform** - Full-stack multilingual subtitle magic with Vue.js 3
-- 📞 **Caller API Service** - Phone validation API with JWT security (hackers gonna hate)
-- 🛰️ **Offline MQTT Messaging** - When internet says "nope" but data says "yep"
-
-<br/>
-
-## 💡 Where I'm Cooking From 👨‍🍳
 
 ```geojson
 {
@@ -179,11 +231,14 @@ graph LR
   "features": [
     {
       "type": "Feature",
+      "id": "workspace",
       "properties": {
-        "location": "Gurgaon, Cyber City - Building 5",
-        "current_vibe": "Shipping code & breaking stereotypes",
-        "coffee_level": "Maximum",
-        "mood": "🚀 Launch mode activated"
+        "name": "Ramboll - Gurgaon Office",
+        "address": "Cyber City, Building 5",
+        "city": "Gurgaon, Haryana",
+        "status": "🚀 Shipping Cloud-Ready GIS",
+        "vibe": "Innovation Mode: Activated",
+        "current_project": "Infrastructure Spatial Insights Platform"
       },
       "geometry": {
         "type": "Point",
@@ -194,146 +249,155 @@ graph LR
 }
 ```
 
-### 🎯 Mission Control
-
-- 🔭 Building cloud-native geospatial apps that make enterprise teams say "Finally!"
-- 🌱 Deep diving into advanced spatial algorithms (nerd alert 🤓)
-- 👯 Contributing to open-source GIS projects (because sharing is caring)
-- 💬 Always down to chat about: **Python, PostGIS, QGIS, React, Spatial Analysis**
-- ⚡ Superpower: Turning spatial chaos into beautiful, scalable solutions
-- 🎮 Side quest: Making GIS fun again (yes, it's possible!)
-
-<br/>
-
-## 🎓 Education & Street Cred
-
-🎓 **B.Tech** - Kurukshetra University (2023)  
-🏆 **2 LinkedIn Recommendations** - People actually like working with me!  
-🌟 **10+ Production Deployments** - All shipped on time, all working perfectly (mostly 😅)
-
-<br/>
-
-## 💼 Let's Build Something LEGENDARY
-
-I'm your go-to person for:
-
-- 🗺️ **Custom GIS Apps** - From concept to cloud deployment
-- ⚙️ **Spatial Automation** - Because robots > repetitive tasks
-- 🌐 **Web Mapping Solutions** - Interactive maps that make jaws drop
-- 📊 **Spatial Analysis** - Finding patterns in the chaos
-- 🔌 **Geospatial APIs** - RESTful endpoints that actually REST
-- 🚀 **Full-Stack GIS Projects** - The whole enchilada, from DB to UI
-
-### 💰 Available for Freelance Work
-
-Got a GIS project that needs some serious firepower? Let's talk! 🎯
-
-<br/>
-
-## 📈 The Numbers Don't Lie
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parshantbalwaria129&theme=tokyonight" alt="Profile Summary" width="95%"/>
 </div>
 
-<br/>
-
-## 🎪 Fun Stats & Easter Eggs
+### 💼 What I Bring to the Table
 
 <div align="center">
 
-| 💼 Professional Wins | 🎯 Personal Bests |
-|---------------------|-------------------|
-| 2+ Years Experience | ☕ Coffee Consumed: ∞ |
-| 10+ Tools Deployed | 🐛 Bugs Fixed: Too Many to Count |
-| 2 Teams Supported | 💡 Ideas Generated: Daily |
-| National-Scale Impact | 🚀 Code Lines: Probably Millions |
+| 🎯 Specialty | 📊 Impact | 🛠️ Tools |
+|:---|:---:|---:|
+| **GIS Application Development** | 10+ Production Apps | QGIS, ArcGIS, PostGIS |
+| **Spatial Data Management** | National-Scale Systems | PostgreSQL, ETL Pipelines |
+| **GIS Automation** | 80% Time Saved | PyQGIS, ArcPy, Python |
+| **Full-Stack Web Apps** | 5+ Platforms Deployed | React, Vue, FastAPI, Django |
+| **Web Mapping Solutions** | Interactive & Scalable | Leaflet, Mapbox GL |
+| **Spatial Analysis** | Data-Driven Insights | Advanced Analytics |
+| **Geospatial APIs** | RESTful Services | FastAPI, Django REST |
 
 </div>
 
-<br/>
-
-## 📫 Slide Into My DMs (Professionally!)
+### 🔥 What I'm Cooking Right Now
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Check_Out_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parshantbalwaria129.github.io/portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshant-balwaria-b930a21b9/)
-  [![Email](https://img.shields.io/badge/Gmail-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantbalwaria@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow_the_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parshantbalwaria129)
-
-</div>
-
-<br/>
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-## 💭 Random Wisdom from a GIS Engineer
-
-<div align="center">
-
-> *"There are only two hard things in GIS: Cache invalidation, spatial reference systems, and off-by-one errors."*
-> 
-> *— Every GIS Developer Ever*
-
-</div>
-
-<br/>
-
-## 🎉 Quick Hits
-
-- 🎯 **Favorite Projection**: Web Mercator (EPSG:3857) - because we all need to conform sometimes
-- 🏆 **Best Debug Tool**: `print("WTF")` - simple but effective
-- 🚀 **Deployment Philosophy**: "It works on my machine" → Docker → Profit
-- 📍 **Location Precision**: Down to the building number (Cyber City - Building 5, baby!)
-- ⚡ **Performance Mantra**: If it takes more than 2 seconds, optimize it. If it takes more than 5, rewrite it.
-
-<br/>
-
-## 📊 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Parshantbalwaria129&color=4776E6&style=for-the-badge&label=PROFILE+VIEWS)
-  
-</div>
-
-<br/>
-
-## 🎵 Currently Vibing To
 
 ```python
-while coding:
-    if stuck:
-        play("Lo-Fi Beats")
-        make_coffee()
-    elif winning:
-        play("Epic Movie Soundtrack")
-        deploy_to_production()
-    else:
-        play("Classic Rock")
-        refactor_code()
+while True:
+    work_on([
+        "☁️ Cloud-native geospatial platforms",
+        "🤖 AI-powered spatial analysis tools", 
+        "🌐 Real-time web mapping that goes brrrr"
+    ])
+    
+    learn([
+        "🧠 Advanced spatial algorithms",
+        "⚡ Making PostGIS queries go ZOOM",
+        "🔮 Next-gen GIS architectures"
+    ])
+    
+    contribute_to("💻 Open-source GIS projects")
+    drink_coffee("☕ x infinity")
+    
+    if someone_needs_help():
+        return "✅ Always available for cool projects!"
 ```
 
----
+</div>
+
+### 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=footer" width="100%" />
-  
-  ### 💙 Thanks for stopping by! Let's turn some lat-longs into legendary products! 🗺️✨
-  
-  <p>
-    <i>⭐️ From <a href="https://github.com/Parshantbalwaria129">Parshant Balwaria</a></i><br/>
-    <i>🏢 Currently shipping code from Gurgaon, Cyber City - Building 5</i><br/>
-    <i>☕ Powered by caffeine, curiosity, and a lot of spatial queries</i>
-  </p>
-  
-  <sub>P.S. - If you're reading this, you're awesome! Now go star some repos! ⭐</sub>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### 💭 Random Dev Wisdom
+
+<div align="center">
+
+> *"There are 2 hard problems in GIS: Coordinate systems, cache invalidation, and off-by-one errors."*  
+> — Every GIS Developer Ever 🤓
+
+> *"It works on my machine ¯\\_(ツ)_/¯"*  
+> **Me before Docker:** 😰 | **Me after Docker:** 😎
+
+> *"Debugging is like being a detective in a crime movie where you're also the murderer."*  
+> — True story from 2 AM production fixes 🕵️‍♂️
+
+</div>
+
+### 💬 Let's Connect & Build Something Epic!
+
+<div align="center">
+
+<a href="https://parshantbalwaria129.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Check_Out_My_Work-00D9FF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/parshant-balwaria-b930a21b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:parshantbalwaria@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Drop_a_Line-D14836?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/Parshantbalwaria129">
+  <img src="https://img.shields.io/badge/GitHub-Follow_for_More-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 💡 Open For
+
+🚀 **Freelance GIS Projects** • 📊 **Spatial Analysis** • 💻 **Custom Development**  
+🤝 **Open Source Collab** • 🎓 **Tech Mentorship** • ☕ **Coffee & Code Chats**
+
+*Got a cool GIS idea? Let's turn it into reality!*
+
+### 🎯 Quick Facts
+
+```python
+parshant_stats = {
+    "education": "🎓 B.Tech - Kurukshetra University (2023)",
+    "recommendations": "🏆 2 LinkedIn Recommendations",
+    "deployments": "🌟 10+ Production Systems (Zero Failed!)",
+    "experience": "📍 2+ Years GIS Engineering",
+    "superpower": "⚡ Debugging PostGIS at 3 AM",
+    "weakness": "🍕 Pizza near deadline",
+    "status": "✅ Available for epic projects"
+}
+```
+
+### 💭 Developer Wisdom
+
+> *"There are 2 hard problems in GIS: Coordinate systems, cache invalidation, and off-by-one errors."*  
+> — Every GIS Developer Ever 🤓
+
+> *"It works on my machine ¯\\_(ツ)_/¯"*  
+> **Before Docker:** 😰 | **After Docker:** 😎
+
+> *"Debugging is like being a detective where you're also the murderer."*  
+> — Me at 2 AM fixing production 🕵️‍♂️
+
+### 🎮 When I'm Not Coding
+
+🗺️ Exploring new GIS tools • 📚 Reading tech blogs • ☕ Perfecting coffee brewing  
+🎵 Jamming to lo-fi beats • 🏃‍♂️ Running (from bugs) • 🌱 Contributing to open source
+
+### 🏆 Fun Achievements
+
+- ✅ **Zero Production Outages** - Knock on wood! 🪵
+- 🚀 **10+ Tools Shipped** - All on time, all working (mostly 😅)
+- 🗺️ **National Scale Impact** - Millions of users served
+- ☕ **Coffee Master** - Level 99 caffeine tolerance
+- 🐛 **Bug Bounty Hunter** - Unofficial title, official results
+
+</div>
+
+<div align="center">
+
+<br/>
+
+### 🌟 *"I turn lat-longs into legendary products"* 🗺️✨
+
+<br/>
+
+**Made with 💙 (and lots of ☕) by [Parshant Balwaria](https://github.com/Parshantbalwaria129)**
+
+📍 Shipping code from **Gurgaon, Cyber City - Building 5**  
+⚡ Powered by caffeine, curiosity, and spatial queries  
+🎯 Converting "It works on my machine" → "It works everywhere" since 2022
+
+<br/>
+<sub>⭐ If you've scrolled this far, you deserve a cookie 🍪 Now go star some repos!</sub>
+
 </div>
