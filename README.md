@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://parshant-balwaria.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshant-balwaria-b930a21b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshantbalwaria@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Parshantbalwaria129&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=parshant-balwaria&color=00D9FF&style=for-the-badge)
 
 </div>
 
@@ -126,16 +126,16 @@ timeline
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parshantbalwaria129&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshantbalwaria129&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parshant-balwaria&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parshant-balwaria&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshantbalwaria129&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parshantbalwaria129&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshant-balwaria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=parshant-balwaria&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parshantbalwaria129&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parshant-balwaria&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 </div>
 
 ### 🎯 Featured Projects & Achievements
@@ -314,7 +314,7 @@ while True:
 
 <div align="center">
 
-<a href="https://parshantbalwaria129.github.io/portfolio/">
+<a href="https://parshant-balwaria.github.io/portfolio/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Check_Out_My_Work-00D9FF?style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/parshant-balwaria-b930a21b9/">
@@ -323,7 +323,7 @@ while True:
 <a href="mailto:parshantbalwaria@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-Drop_a_Line-D14836?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://github.com/Parshantbalwaria129">
+<a href="https://github.com/parshant-balwaria">
   <img src="https://img.shields.io/badge/GitHub-Follow_for_More-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
@@ -448,7 +448,7 @@ const funFact = () => {
 
 ### *"Converting caffeine to code, one commit at a time"* ☕💻
 
-**Made with 💙 (and lots of ☕)  by [Parshant Balwaria](https://github.com/Parshantbalwaria129)**
+**Made with 💙 (and lots of ☕)  by [Parshant Balwaria](https://github.com/parshant-balwaria)**
 
 📍 Shipping code from Gurgaon, Cyber City - Building 5 <br/>
 ⚡ Powered by caffeine, curiosity, and spatial queries <br/>
